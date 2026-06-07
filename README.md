@@ -1,9 +1,9 @@
 # 🚀 Mission Control AI — FIAP-1 Monitoring System
 
 **Integrantes:**
-- [Seu Nome Completo] — RM: XXXXXX
-- [Nome do Parceiro] — RM: XXXXXX
-
+- Ian Rodrigues Martins — RM: 570540
+- Patrick Fernandes Martins — RM: 572899 
+- Gabriel Del Pizzo Pintor - RM: 570436
 ---
 
 ## 📋 O que o projeto faz
