@@ -37,7 +37,7 @@ Sistema de monitoramento de missão espacial desenvolvido em Python. Gera dados 
 
 > **Substitua as imagens abaixo por prints reais do seu Colab rodando!**
 
-![Dados normais da missão](dados_normal.png)
+![Dados normais da missão](dados_sistema.png)
 ![Alerta crítico detectado](assets/alerta_critico.png)
 ![Análise da ARIA](assets/analise_ia.png)
 ![Monitoramento contínuo](assets/monitoramento.png)
@@ -48,7 +48,7 @@ Sistema de monitoramento de missão espacial desenvolvido em Python. Gera dados 
 
 Abra o notebook no Google Colab:
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/SEU_LINK_AQUI)
+[![Abrir no Colab] https://colab.research.google.com/drive/1I1XBmLVJ6jdOXNaxvIB9ZVzN0lkkUwdj?usp=sharing ]
 
 **Execute as células em ordem:**
 1. Célula 1 → Instala Ollama + baixa o modelo Llama (demora ~3min)
