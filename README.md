@@ -35,12 +35,13 @@ Sistema de monitoramento de missão espacial desenvolvido em Python. Gera dados 
 
 ## 🖼️ Demonstração
 
-> **Substitua as imagens abaixo por prints reais do seu Colab rodando!**
-
+> **Analise dos dados!**
+Dados normais da missão
 ![Dados normais da missão](dados_sistema.png)
 ![Analise Aria](analise_aria.png)
+> **Situacão critica!**
 ![Alerta crítico detectado](alerta_critico.png)
-![Análise da ARIA](analise_ia.png)
+> **Monitoramento continuo**
 ![Monitoramento contínuo](assets/monitoramento.png)
 
 ---
