@@ -42,7 +42,7 @@ Dados normais da missão
 > **Situacão critica!**
 ![Alerta crítico detectado](alerta_critico.png)
 > **Monitoramento continuo**
-![Monitoramento contínuo](assets/monitoramento.png)
+![Monitoramento contínuo](monitoramento.png)
 
 ---
 
