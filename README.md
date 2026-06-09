@@ -44,6 +44,7 @@ Sistema de monitoramento de missão espacial desenvolvido em Python. Gera dados 
 ![Análise da ARIA](Analise_cicloAria.png)
 ![Monitoramento 2ciclo](monitoramento_2ciclo.png)
 ![Análise da ARIA](Analise_2cicloAria.png)
+
 ![Monitoramento](monitoramento_3ciclo.png)
 
 ---
