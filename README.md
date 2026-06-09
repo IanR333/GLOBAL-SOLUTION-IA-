@@ -42,7 +42,10 @@ Sistema de monitoramento de missão espacial desenvolvido em Python. Gera dados 
 ![Alerta crítico detectado](alerta_critico.png)
 ![Monitoramento contínuo](monitoramento.png)
 ![Análise da ARIA](Analise_cicloAria.png)
+![Monitoramento 2ciclo](monitoramento_2ciclo.png)
+![Análise da ARIA](Analise_2cicloAria.png)
 ![Monitoramento](monitoramento_3ciclo.png)
+
 ---
 
 ## ▶️ Como Executar
